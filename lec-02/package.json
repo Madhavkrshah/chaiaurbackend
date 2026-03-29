@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "homepage": "https://github.com/Madhavkrshah/chaiaurbackend#readme",
+  "bugs": {
+    "url": "https://github.com/Madhavkrshah/chaiaurbackend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhavkrshah/chaiaurbackend.git"
+  },
+  "license": "ISC",
+  "author": "madhav shah",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
