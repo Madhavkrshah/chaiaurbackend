@@ -1,0 +1,20 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "a backend project",
+  "homepage": "https://github.com/Madhavkrshah/chaiaurbackend#readme",
+  "bugs": {
+    "url": "https://github.com/Madhavkrshah/chaiaurbackend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhavkrshah/chaiaurbackend.git"
+  },
+  "license": "ISC",
+  "author": "Madhav",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
